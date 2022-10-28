@@ -1,3 +1,3 @@
 #kayit-paneli
 
-Bizzat ben yani Lewis tarafından yapılmıştır gönül rahatlığı ile kullanabilirsiniz. :)
+Lewis tarafından yapılmıştır gönül rahatlığı ile kullanabilirsiniz. :)
